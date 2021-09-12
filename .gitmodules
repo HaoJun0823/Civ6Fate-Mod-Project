@@ -1,0 +1,21 @@
+[submodule "Civ6Fate-RedHare"]
+	path = Civ6Fate-RedHare
+	url = https://github.com/HaoJun0823/Civ6Fate-RedHare
+[submodule "Civ6Fate-Emiya"]
+	path = Civ6Fate-Emiya
+	url = https://github.com/HaoJun0823/Civ6Fate-Emiya
+[submodule "Civ6Fate-Charlemagne"]
+	path = Civ6Fate-Charlemagne
+	url = https://github.com/HaoJun0823/Civ6Fate-Charlemagne
+[submodule "Civ6Fate-MinamotoNoYorimitsu"]
+	path = Civ6Fate-MinamotoNoYorimitsu
+	url = https://github.com/HaoJun0823/Civ6Fate-MinamotoNoYorimitsu
+[submodule "Civ6Fate-FujimaruRistuka"]
+	path = Civ6Fate-FujimaruRistuka
+	url = https://github.com/HaoJun0823/Civ6Fate-FujimaruRistuka
+[submodule "Civ6Fate-AngraMainyu"]
+	path = Civ6Fate-AngraMainyu
+	url = https://github.com/HaoJun0823/Civ6Fate-AngraMainyu
+[submodule "Civ6Fate-Qin"]
+	path = Civ6Fate-Qin
+	url = https://github.com/HaoJun0823/Civ6Fate-Qin
