@@ -19,3 +19,6 @@
 [submodule "Civ6Fate-Qin"]
 	path = Civ6Fate-Qin
 	url = https://github.com/HaoJun0823/Civ6Fate-Qin
+[submodule "Civ6Fate-Fou"]
+	path = Civ6Fate-Fou
+	url = https://github.com/HaoJun0823/Civ6Fate-Fou
