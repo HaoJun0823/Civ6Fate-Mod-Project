@@ -22,3 +22,30 @@
 [submodule "Civ6Fate-Fou"]
 	path = Civ6Fate-Fou
 	url = https://github.com/HaoJun0823/Civ6Fate-Fou
+[submodule "Civ6Fate-ArturiaAlter"]
+	path = Civ6Fate-ArturiaAlter
+	url = https://github.com/HaoJun0823/Civ6Fate-ArturiaAlter
+[submodule "Civ6Fate-ArthurPendragon"]
+	path = Civ6Fate-ArthurPendragon
+	url = https://github.com/HaoJun0823/Civ6Fate-ArthurPendragon
+[submodule "Civ6Fate-Arash"]
+	path = Civ6Fate-Arash
+	url = https://github.com/HaoJun0823/Civ6Fate-Arash
+[submodule "Civ6Fate-Astolfo"]
+	path = Civ6Fate-Astolfo
+	url = https://github.com/HaoJun0823/Civ6Fate-Astolfo
+[submodule "Civ6Fate-Abigail"]
+	path = Civ6Fate-Abigail
+	url = https://github.com/HaoJun0823/Civ6Fate-Abigail
+[submodule "Civ6Fate-SenjiMuramasa"]
+	path = Civ6Fate-SenjiMuramasa
+	url = https://github.com/HaoJun0823/Civ6Fate-SenjiMuramasa
+[submodule "Civ6Fate-Iskandar"]
+	path = Civ6Fate-Iskandar
+	url = https://github.com/HaoJun0823/Civ6Fate-Iskandar
+[submodule "Civ6Fate-LiShuWen"]
+	path = Civ6Fate-LiShuWen
+	url = https://github.com/HaoJun0823/Civ6Fate-LiShuWen
+[submodule "Civ6Fate-JeanneAlter"]
+	path = Civ6Fate-JeanneAlter
+	url = https://github.com/HaoJun0823/Civ6Fate-JeanneAlter
